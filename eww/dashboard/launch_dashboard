@@ -3,7 +3,7 @@
 ## Files and cmd
 FILE="$HOME/.cache/eww_launch.dashboard"
 CFG="$HOME/.config/eww/dashboard"
-EWW=`eww`
+EWW=eww
 
 ## Run eww daemon if not running already
 if [[ ! `pidof eww` ]]; then
