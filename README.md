@@ -30,7 +30,7 @@
 - Install Elkowar’s Wacky Widgets - [Instructions](https://elkowar.github.io/eww)
 - Clone this repository
 ```
-$ git clone --depth=1 https://github.com/adi1090x/widgets.git
+$ git clone --depth=1 https://github.com/TheZnuf/widgets.git
 ```
 - Create eww config directory : **`~/.config/eww`**
 - Copy everything from `eww` directory to **`~/.config/eww`**
